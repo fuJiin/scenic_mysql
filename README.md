@@ -1,3 +1,7 @@
+:exclamation::exclamation: **NOT ACTIVELY MAINTAINED** :exclamation::exclamation:
+
+Use https://github.com/Attribytes/scenic_mysql instead.
+
 # Scenic Mysql Adapter
 
 This gem adds MySQL support for the wonderful [Scenic](https://github.com/thoughtbot/scenic) gem by Thoughtbot.
